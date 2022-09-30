@@ -28,3 +28,4 @@ This project uses the Gradle build system. You don't need an IDE to build and ex
     * The test will run on local host
 
 If you are using Android Studio, the *Run* window will show the test results.
+Sample
